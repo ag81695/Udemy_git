@@ -1,1 +1,1 @@
-this is 1st code file
+this is 1st code file. and i am learning dev ops from udemy
